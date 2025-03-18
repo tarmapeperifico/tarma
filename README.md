@@ -1,7 +1,7 @@
 # tarma
 Hola
 
--Peperifico y sus amigos
+- Peperifico y sus amigos
 
 # bubuchona 
 River
